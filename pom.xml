@@ -5,6 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>git-jenkins-docker-demo</name>
   <build>
-  <finalName>JenkinDemo</finalName>
+  <finalName>JenkinsDemo</finalName>
   </build>
 </project>
